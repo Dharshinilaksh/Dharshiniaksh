@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-- 🔢 [Simple Calculator](#)  
+- 🔢 [Simple Calculator](https://github.com/Dharshinilaksh/simple-calculator)  
   A modern web-based calculator using HTML, CSS, and JavaScript with neumorphic button design.
 
 - 📆 [Mini Calendar](#)  
