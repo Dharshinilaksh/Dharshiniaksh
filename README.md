@@ -12,7 +12,7 @@
 - 🔢 [Simple Calculator](https://github.com/Dharshinilaksh/simple-calculator)  
   A modern web-based calculator using HTML, CSS, and JavaScript with neumorphic button design.
 
-- 📆 [Mini Calendar](#)  
+- 📆 [Mini Calendar](https://github.com/Dharshinilaksh/mini_calendar)  
   A dynamic date and time tracker that syncs with the system clock in real-time.
 
 - 🚨 [Hazardous Gas Alert System](#)  
